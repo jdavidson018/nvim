@@ -1,0 +1,2 @@
+require("wizardingworld")
+print("hello")

@@ -1,0 +1,1 @@
+require("wizardswelcome.welcomemessage")

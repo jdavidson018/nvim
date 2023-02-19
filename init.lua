@@ -1,2 +1,3 @@
+require("wizardswelcome")
 require("wizardingworld")
-print("hello")
+print("We are officially ready to rock")

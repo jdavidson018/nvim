@@ -23,6 +23,7 @@ return require('packer').startup(function(use)
 	  end
   })
   use( 'nvim-treesitter/nvim-treesitter', {run = ':TSUpdate'})
+  use( 'nvim-treesitter/playground')
   use {"ellisonleao/glow.nvim", config = function() require("glow").setup() end}
   use {
 	  'phaazon/hop.nvim',

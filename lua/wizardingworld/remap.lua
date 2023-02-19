@@ -1,9 +1,9 @@
 vim.g.mapleader = " "
 vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
 vim.keymap.set("i", "jk", "<Esc>")
-vim.keymap.set("n", "<C-w>h", "<C-h>")
-vim.keymap.set("n", "<C-w>j", "<C-j>")
-vim.keymap.set("n", "<C-w>k", "<C-k>")
-vim.keymap.set("n", "<C-w>l", "<C-l>")
+vim.keymap.set("n", "<C-h>","<C-w>h")
+vim.keymap.set("n", "<C-j>","<C-w>j")
+vim.keymap.set("n", "<C-k>","<C-w>k")
+vim.keymap.set("n", "<C-l>","<C-w>l")
 vim.wo.number = true
 vim.opt.colorcolumn = "100"

@@ -1,2 +1,2 @@
 require("wizardingworld.remap")
-print("hello from the wizarding world")
+print("Base Mapping Loaded")

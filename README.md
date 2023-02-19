@@ -15,8 +15,7 @@ When in doubt, just refer back to this awesome video by ThePrimeagen:
 	`sudo apt-get install neovim`
 
 2. Get yourself a package manager: https://github.com/wbthomason/packer.nvim
-	`git clone --depth 1 https://github.com/wbthomason/packer.nvim\
- ~/.local/share/nvim/site/pack/packer/start/packer.nvim`
+	`git clone --depth 1 https://github.com/wbthomason/packer.nvim\ ~/.local/share/nvim/site/pack/packer/start/packer.nvim`
 
 3. Install ripgrep if it is not already.
   * This can be handled by a quick google
